@@ -26,7 +26,7 @@ class Search extends React.Component {
     return (
       <div>
         <div onClick={this.onClick} className="search-text">
-          Search Text123123,{length}
+          Search Text 234234,{length}
         </div>
         <img src={test}/>
         <Name/>

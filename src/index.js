@@ -9,5 +9,7 @@ import Search from "./search";
 //     renderWithHotReload(NextApp);
 //   });
 // }
+
+console.log('asdfasfd')
  
 ReactDom.render(<Search />, document.getElementById("root"));
